@@ -2,12 +2,12 @@
 
 ## Team Members
 
+- Festus Godwin - (Team Lead)
+- Rofhiwa Ntshagovhe - (Admin Lead)
 - Peter Maila
 - Shamsuddeen Lawal
 - Kasavuli Mark
-- Rofhiwa Ntshagovhe
 - Sandisiwe Mtsha
-- Festus Godwin
   
   
 ## Project description
